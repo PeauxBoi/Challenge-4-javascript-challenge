@@ -88,6 +88,24 @@ const questions = [
       { text: '4', correct: true},
        { text: '22', correct: false}
     ]
+  }, {
+    question: 'What is 1 + 1?',
+    answers: [
+      { text: '2', correct: true},
+       { text: '22', correct: false}
+    ]
+  },{
+    question: 'What is 3 + 3?',
+    answers: [
+      { text: '6', correct: true},
+       { text: '22', correct: false}
+    ]
+  },{
+    question: 'What is 4 + 4?',
+    answers: [
+      { text: '8', correct: true},
+       { text: '22', correct: false}
+    ]
   },
 
 ]
